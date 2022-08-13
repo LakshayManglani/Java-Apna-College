@@ -1,4 +1,4 @@
-package lectureNotes._L5_VariablesAndDataTypes._VQ;
+package _VQ;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class _VQ_2_OperationsOnNumbers {
         System.out.print("Enter Second Number : ");
         int num2 = sc.nextInt();
 
-        // Initalizing Operations :-
+        // Initializing Operations :-
         int sum = num1 + num2;
         int product = num1 * num2;
 

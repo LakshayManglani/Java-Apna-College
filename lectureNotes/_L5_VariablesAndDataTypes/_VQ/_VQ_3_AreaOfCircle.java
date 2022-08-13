@@ -1,4 +1,4 @@
-package lectureNotes._L5_VariablesAndDataTypes._VQ;
+package _VQ;
 
 import java.util.Scanner;
 

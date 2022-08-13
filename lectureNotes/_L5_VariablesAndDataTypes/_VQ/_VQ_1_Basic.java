@@ -1,4 +1,4 @@
-package lectureNotes._L5_VariablesAndDataTypes._VQ;
+package _VQ;
 
 public class _VQ_1_Basic {
     public static void main(String[] args) {

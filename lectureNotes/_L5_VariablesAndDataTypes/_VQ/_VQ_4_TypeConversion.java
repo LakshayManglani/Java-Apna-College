@@ -1,5 +1,3 @@
-package _VQ;
-
 public class _VQ_4_TypeConversion {
     public static void main(String[] args) {
         /*

@@ -1,5 +1,3 @@
-package _PQ;
-
 public class _PQ_1_Average {
     public static void main(String[] args) {
         //Initalzing Numbers
@@ -11,6 +9,7 @@ public class _PQ_1_Average {
         int average = num1+num2+num3;
 
         //Output
-        System.out.println("Average :- "+average);
+        System.out.println("\nAverage :- "+average);
+        System.out.println();
     }
 }

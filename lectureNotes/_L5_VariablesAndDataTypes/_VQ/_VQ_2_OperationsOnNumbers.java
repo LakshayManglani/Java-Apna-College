@@ -1,5 +1,3 @@
-package _VQ;
-
 import java.util.Scanner;
 
 public class _VQ_2_OperationsOnNumbers {

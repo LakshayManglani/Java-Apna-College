@@ -1,5 +1,3 @@
-package _PQ;
-
 import java.util.Scanner;
 
 public class _PQ_2_AreaOfSquare {
@@ -7,7 +5,7 @@ public class _PQ_2_AreaOfSquare {
         Scanner sc = new Scanner(System.in);
 
         // Input Side from user
-        System.out.println("Enter Side :-");
+        System.out.print("\nEnter Side :-");
         int side = sc.nextInt();
 
         // Initializing Area of Square
@@ -15,5 +13,6 @@ public class _PQ_2_AreaOfSquare {
 
         // Output
         System.out.println("Area Of Square :- "+area);
+        System.out.println();
     }
 }

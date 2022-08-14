@@ -1,5 +1,3 @@
-package _PQ;
-
 import java.util.Scanner;
 
 public class _PQ_3_Bill {
@@ -7,7 +5,7 @@ public class _PQ_3_Bill {
         Scanner sc = new Scanner(System.in);
 
         // Input Price from user
-        System.out.print("Enter Pencil Price :- ");
+        System.out.print("\nEnter Pencil Price :- ");
         float pencil = sc.nextFloat();
         System.out.print("Enter Pen Price :- ");
         float pen = sc.nextFloat();

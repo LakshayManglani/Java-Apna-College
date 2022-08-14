@@ -1,5 +1,3 @@
-package _VQ;
-
 public class _VQ_5_TypeCasting {
     public static void main(String[] args) {
         /*

@@ -1,9 +1,7 @@
-package _VQ;
-
 public class _VQ_1_Basic {
     public static void main(String[] args) {
         // Output in java :-
-        System.out.println("Hello World!");// ln is used for nextline
+        System.out.println("\nHello World!");// ln is used for nextline
         System.out.print("Hello User");
 
         // Print a pyramid Patter in java :-

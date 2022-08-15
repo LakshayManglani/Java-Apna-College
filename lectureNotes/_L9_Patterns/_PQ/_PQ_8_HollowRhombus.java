@@ -8,7 +8,7 @@ public class _PQ_8_HollowRhombus {
         // Outer Loop for Row
         for (int i = 0; i < n; i++) {
             // Print Spaces
-            for (int j = 4; j > i; j--) {
+            for (int j = n-1; j > i; j--) {
                 System.out.print("  ");
             }
 

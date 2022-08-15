@@ -6,7 +6,7 @@ public class _PQ_1_HollowRectangle {
 
         System.out.println();
         // Outer Loop For Row
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < n; i++) {
             // Inner Loop For Column
             for (int j = 0; j < n + 1; j++) {
                 if (i == 0 || j == 0 || i == n - 1 || j == n) {

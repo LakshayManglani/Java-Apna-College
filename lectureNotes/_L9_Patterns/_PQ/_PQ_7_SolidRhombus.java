@@ -8,7 +8,7 @@ public class _PQ_7_SolidRhombus {
         // Outer Loop for Row
         for (int i = 0; i < n; i++) {
             // Print Spaces
-            for (int j = 4; j > i; j--) {
+            for (int j = n - 1; j > i; j--) {
                 System.out.print("  ");
             }
 
@@ -19,5 +19,6 @@ public class _PQ_7_SolidRhombus {
 
             System.out.println();
         }
+        System.out.println();
     }
 }

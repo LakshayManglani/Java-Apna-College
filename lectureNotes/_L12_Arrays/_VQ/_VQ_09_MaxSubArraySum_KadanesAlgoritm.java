@@ -2,10 +2,10 @@ package _VQ;
 
 public class _VQ_09_MaxSubArraySum_KadanesAlgoritm {
     public static void main(String[] args) {
-        // int numbers[] = { -2, -3, 4, -1, -2, 1, 5, -3 };
+        int numbers[] = { -2, -3, 4, -1, -2, 1, 5, -3 };
 
         // For negative array like :-
-        int numbers[] = { -2, -3, -1, -2, -3 };
+        // int numbers[] = { -2, -3, -1, -2, -3 };
 
         findSubArrayMaxSum(numbers);
     }
